@@ -7,22 +7,22 @@
   export const projects = [
     {
       title: "Momo Food App (MERN)",
-      image: "/public/images/momo.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/momo1.png",
       link: "https://momo-delivery-jy86.vercel.app/"
     },
     {
       title: "Shalimar Helmet Shop (MERN + Flutter)",
-      image: "/public/images/shal.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/shal.png",
       link: "https://shalimar-helmet-riwg.vercel.app/"
     },
     {
       title: "Art Exchange (MERN + Flutter)",
-      image: "/public/images/art3.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/art3.png",
       link: "https://shalimar-helmet-riwg.vercel.app/"
     },
     {
       title: "Car Escape (Unity, C++, Python)",
-      image: "/public/images/car_escape.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/car_escape.png",
       link: "#"
     }
   ];
@@ -30,31 +30,31 @@
   export const profiles = [
     {
       name: "Tableau",
-      image: "/public/images/Tableau-Logo.jpg",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/Tableau-Logo.jpg",
       link: "https://public.tableau.com/app/profile/aayush.pradhan7748/vizzes"
     },
     {
       name: "Figma",
-      image: "/public/images/figma_logo.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/figma_logo.png",
       link: "https://www.figma.com/design/98cYL2Yp1XhLXRueW56SB3/mob"
     },
     {
         name: "Tableau",
-        image: "/public/images/Tableau-Logo.jpg",
+        image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/Tableau-Logo.jpg",
         link: "https://public.tableau.com/app/profile/aayush.pradhan7748/vizzes"
       },
       {
         name: "Figma",
-        image: "/public/images/figma_logo.png",
+        image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/figma_logo.png",
         link: "https://www.figma.com/design/98cYL2Yp1XhLXRueW56SB3/mob"
       },    {
         name: "Tableau",
-        image: "/public/images/Tableau-Logo.jpg",
+        image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/Tableau-Logo.jpg",
         link: "https://public.tableau.com/app/profile/aayush.pradhan7748/vizzes"
       },
       {
         name: "Figma",
-        image: "/public/images/figma_logo.png",
+        image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/figma_logo.png",
         link: "https://www.figma.com/design/98cYL2Yp1XhLXRueW56SB3/mob"
       },
 
@@ -102,22 +102,22 @@
   export const certificates = [
     {
       title: "Data Analysis with Python",
-      image: "/images/certificate1.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/certificate1.png",
       link: "https://app.dataquest.io/view_cert/NGLAOVB8XR0MWHVIDKKK"
     },
     {
       title: "Advanced Data Cleaning in Python",
-      image: "/images/certificate2.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/certificate2.png",
       link: "https://app.dataquest.io/view_cert/BDZ52H2MI1G4NOLZT1YE"
     },
     {
       title: "Working with SQL Data Sources",
-      image: "/images/certificate3.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/certificate3.png",
       link: "https://app.dataquest.io/view_cert/D8KQKGALDXX68ZVO0OP9"
     },
     {
       title: "Data Cleaning and Analysis in Python",
-      image: "/images/certificate4.png",
+      image: "https://raw.githubusercontent.com/Aayushbahadurpradhan/Portfolio/refs/heads/main/images/certificate4.png",
       link: "https://app.dataquest.io/view_cert/LZ92347HXWW594VVJ6WW"
     }
   ];

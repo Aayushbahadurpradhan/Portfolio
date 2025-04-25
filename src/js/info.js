@@ -7,22 +7,22 @@
   export const projects = [
     {
       title: "Momo Food App (MERN)",
-      image: "/images/momo1.png",
+      image: "/public/images/momo.png",
       link: "https://momo-delivery-jy86.vercel.app/"
     },
     {
       title: "Shalimar Helmet Shop (MERN + Flutter)",
-      image: "/images/shal.png",
+      image: "/public/images/shal.png",
       link: "https://shalimar-helmet-riwg.vercel.app/"
     },
     {
       title: "Art Exchange (MERN + Flutter)",
-      image: "/images/art3.png",
+      image: "/public/images/art3.png",
       link: "https://shalimar-helmet-riwg.vercel.app/"
     },
     {
       title: "Car Escape (Unity, C++, Python)",
-      image: "/images/car_escape.png",
+      image: "/public/images/car_escape.png",
       link: "#"
     }
   ];
@@ -30,31 +30,31 @@
   export const profiles = [
     {
       name: "Tableau",
-      image: "/images/Tableau-Logo.jpg",
+      image: "/public/images/Tableau-Logo.jpg",
       link: "https://public.tableau.com/app/profile/aayush.pradhan7748/vizzes"
     },
     {
       name: "Figma",
-      image: "/images/figma_logo.png",
+      image: "/public/images/figma_logo.png",
       link: "https://www.figma.com/design/98cYL2Yp1XhLXRueW56SB3/mob"
     },
     {
         name: "Tableau",
-        image: "/images/Tableau-Logo.jpg",
+        image: "/public/images/Tableau-Logo.jpg",
         link: "https://public.tableau.com/app/profile/aayush.pradhan7748/vizzes"
       },
       {
         name: "Figma",
-        image: "/images/figma_logo.png",
+        image: "/public/images/figma_logo.png",
         link: "https://www.figma.com/design/98cYL2Yp1XhLXRueW56SB3/mob"
       },    {
         name: "Tableau",
-        image: "/images/Tableau-Logo.jpg",
+        image: "/public/images/Tableau-Logo.jpg",
         link: "https://public.tableau.com/app/profile/aayush.pradhan7748/vizzes"
       },
       {
         name: "Figma",
-        image: "/images/figma_logo.png",
+        image: "/public/images/figma_logo.png",
         link: "https://www.figma.com/design/98cYL2Yp1XhLXRueW56SB3/mob"
       },
 
